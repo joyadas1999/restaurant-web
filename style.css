@@ -1,1 +1,24 @@
+body{
+  background-image: url("paper.jpg");
+  background-color: #e8a0d1;
+  padding: 5vw;
+}
+h1{
+  font-family: comic;
+  font-size: 40px;
+  font-weight: bold;
 
+}
+
+p {
+  font-family: comic;
+  font-size: 30px;
+  font-weight: bold;
+
+}
+p2 {
+  font-family: comic;
+  font-size: 40px;
+  font-weight: bold;
+
+}
